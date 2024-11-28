@@ -1,5 +1,6 @@
-![BEGO](./assets/BEGO.png)
-# &middot; Examen de Evaluación para el Puesto de Front-End &middot;
+# &middot; Examen de Evaluación para el Puesto de Front-End &middot; ![BEGO](./assets/BEGO.png)
+
+============================================================================
 
 Como parte de tu proceso de selección, recibirás una prueba diseñada para evaluar tu experiencia en la maquetación de interfaces y tu nivel de programación de componentes requeridos.
 
@@ -17,6 +18,7 @@ Como parte de tu proceso de selección, recibirás una prueba diseñada para eva
      `https://129bc152-6319-4e38-b755-534a4ee46195.mock.pstmn.io/orders/upcoming`  
    - **Todos los pedidos:**  
      `https://129bc152-6319-4e38-b755-534a4ee46195.mock.pstmn.io/orders`
+
 
 ## Evaluación y Entrega
 
@@ -37,6 +39,7 @@ Como parte de tu proceso de selección, recibirás una prueba diseñada para eva
    ![Instrucciones 1](./assets/Instrucciones-1.png)
    
    ![Instrucciones 2](./assets/Instrucciones-2.png)
+
 
 ## Notas Importantes
 
