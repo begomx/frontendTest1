@@ -1,5 +1,6 @@
+<img src="./assets/BEGO.png" alt="BEGO" width="200">
+
 # &middot; Examen de Evaluación para el Puesto de Front-End &middot; 
-<img src="./assets/BEGO.png" alt="BEGO" width="300">
 
 Como parte de tu proceso de selección, recibirás una prueba diseñada para evaluar tu experiencia en la maquetación de interfaces y tu nivel de programación de componentes requeridos.
 
@@ -9,7 +10,7 @@ Como parte de tu proceso de selección, recibirás una prueba diseñada para eva
    Deberás implementar las interfaces enviadas, utilizando datos obtenidos a través de peticiones a una API REST. Los assets necesarios estarán disponibles en un archivo de Figma.
 
    ### Enlace a la Maqueta:
-   [Figma - Prueba para Desarrolladores](https://www.figma.com/design/a3ZLOVSXnQliLKNloQoXN1/Prueba-Devs?node-id=0-1&t=X0XF6OQZqiBiTN8Z-1)
+   [Figma - Prueba Front-End](https://www.figma.com/design/a3ZLOVSXnQliLKNloQoXN1/Prueba-Devs?node-id=0-1&t=X0XF6OQZqiBiTN8Z-1)
 
 2. **Peticiones API**  
    Para alimentar las interfaces, utiliza los siguientes endpoints:  
