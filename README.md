@@ -42,6 +42,7 @@ Como parte de tu proceso de selección, recibirás una prueba diseñada para eva
 
 ## Notas Importantes
 
+- El proyecto debe ser desarrollado en un repositorio nuevo creado específicamente para esta prueba.
 - Puedes utilizar cualquier framework de tu preferencia (React, Angular, Vue, etc.), siempre que el código esté estructurado de manera **modular y legible**.
 - Si los datos de algún pedido no contienen una imagen, deberás mostrar un **avatar predeterminado**.
 - En caso de no contar con la tipografía requerida, se permitirá el uso de **Open Sans** como alternativa.
